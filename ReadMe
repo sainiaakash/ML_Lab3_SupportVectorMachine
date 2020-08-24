@@ -1,0 +1,12 @@
+Code file name : code.py
+Lab is implemented in python v3
+Libraries used : numpy, cvxopt, pylab, matplotlib
+
+To run the code type following command in terminal:
+
+    python code.py
+
+For varying the various kernel, vary the parameter in the end named "ker_number" 
+   1 for linear kernel
+   2 for gaussian kernel
+   3 for polynomial kernel
